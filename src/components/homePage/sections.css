@@ -1,0 +1,26 @@
+.big-sections{
+    display: flex;
+    flex-direction: row;
+}
+.sections{
+    margin: 20px;
+    border:2px solid aliceblue;
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height:200px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(211, 212, 212), -5px -5px 10px rgb(211, 212, 212);
+}
+
+.sections img {
+    width: 150px;
+    height: 100px;
+}
+
+.sections h3{
+    font-size: 20px;
+
+}

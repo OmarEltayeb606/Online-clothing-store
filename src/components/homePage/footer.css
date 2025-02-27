@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bigFooterSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px;
+
+}
+
+.titleSpace{
+    margin-bottom: 10px;
+}
+
+.iconsStyles{
+    margin: 10px;
+    border:solid green;
+    border-radius: 10px;
+}
+
+.monyMethods{
+    margin: 10px;
+}
+
+.socialMediaIcons{
+    margin-right: 5px ;
+}

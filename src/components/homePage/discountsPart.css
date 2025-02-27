@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#discountPartOfPage{
+    background-image: url(./../../img/banner/b2.jpg);
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+}
+
+#discountPartOfPage p{
+    color: rgb(255, 255, 255);
+}
+
+#discountPartOfPageH2{
+    color: rgb(255, 255, 255);
+}
+
+#discountPartOfPage div{
+    color: red;
+    display: inline;
+}
+
+#discountPartOfPage button{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 10px;
+    font-weight:700;
+}
+
+#discountPartOfPage button:hover{
+background-color: rgb(8, 121, 115);
+color: white;
+cursor: pointer;
+}
